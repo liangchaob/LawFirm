@@ -7,9 +7,13 @@
 
 # 开发用帐号
 
-* Admin :a@lawyer.com 1111111
-* User :user1@client.com 1111111
+* Admin :a@lawyer.com
+* User :user1@client.com
 
 # 其他
 
-* 小组内成员请登陆 [Tower](http://redmine.growthschool.com/projects/team-2-2/issues)查看组长分配的项目任务
+* 小组内成员请登陆 [redmine](http://redmine.growthschool.com/projects/team-2-2/issues)查看组长分配的项目任务
+
+# 站点
+
+![FireShot Capture 3 - 伴律网 - http___law-firm.herokuapp.com_.png](https://ooo.0o0.ooo/2016/12/04/58443a197758b.png)
